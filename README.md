@@ -4,10 +4,10 @@ Is your software respectful to its community?
 
 Since neither OSS nor FOSS define how to work with community, here is an
 attempt to fill that gap with some basic rules that many projects unspokenly
-follow already.
+follow.
 
 The following rules uses [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt)
-to define MUST, SHOULD, etc terms.
+to define MUST, SHOULD, etc.
 
 1. Software MUST be (FL)OSS
 - End of story. If your software isn't (FL)OSS, it is disrespectful already.
@@ -33,15 +33,19 @@ to define MUST, SHOULD, etc terms.
   disagrees with political decisions, and who disagrees in general.
 
 - Even if your software needs CoC for a good reason, it is still disrespectful
-  to the community. CoC basically treats **tech-savvy** people, people who are
-  highly intelligent, like a normies who don't understand that red is red and
-  green is green. If you're going to add CoC, make sure nobody interpret it
-  like that.
+  to the community. It's a matter of trust. Do you trust and respect your
+  community? If you do, then throw away CoC. Stop attempting to regulate anyone
+  and especially enforce dumb rules. It is highly unwelcome to everyone. It
+  brings no value to the development process. It makes it hard to communicate
+  with software author **respectfully** since CoC has no respect to the
+  community in the first place. Keep this in mind if you're going to add CoC.
 
 7. Software SHOULD NOT use proprietary platform for development
 - Remember, if your software uses proprietary platform, that platform MUST NOT
   require personal information. See below.
 
 8. Software MUST NOT demand personal information
-- Even requiring real name is disrespectful. Software MUST respect people's
-  decision to not give any kind of personal information.
+- Such as real name, address, phone number and so on. This information directly
+  attached to you and your real life. Thus, software MUST respect your decision
+  to not give any kind of personal information that can be used to track you
+  down and harm you in any possible way.
