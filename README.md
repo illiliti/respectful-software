@@ -21,7 +21,8 @@ to define MUST, SHOULD, etc.
   software. In return, software MUST respect them.
 
 4. Software MUST NOT force contributors to sign CLA
-- Consider using DCO instead if you really need one. In most cases you don't.
+- Consider using [DCO](https://developercertificate.org) instead if you really
+  need one. In most cases you don't.
 
 5. Software MUST NOT have tracking/telemetry
 - Software that act like a spyware is disrespectful to everyone, or rather
