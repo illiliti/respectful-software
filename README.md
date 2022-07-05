@@ -41,8 +41,8 @@ to define MUST, SHOULD, etc.
   that they have no respect for the community in the first place. Keep this in
   mind if you're going to add a CoC.
 
-7. Software SHOULD NOT be hosted on the proprietary platform
-- Remember, if your software hosted on the proprietary platform, that platform
+7. Software SHOULD NOT be hosted on a proprietary platform
+- Remember, if your software is hosted on a proprietary platform, that platform
   MUST NOT require personal information. See below.
 
 8. Software MUST NOT demand personal information
