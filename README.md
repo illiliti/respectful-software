@@ -4,7 +4,8 @@ Is your software respectful to its community?
 
 Since neither OSS nor FOSS define how to work with a community, **(FL)OSS**
 software can completely disregard and disrespect it. For example, if you need
-to contribute an important fix, (FL)OSS software can, but not limited to,
+to contribute an important fix, owners of the (FL)OSS software can, but not
+limited to,
 
 1) force you to give up your personal information and then sell it to the
 advertisement company
