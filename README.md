@@ -2,7 +2,7 @@
 
 Is your software respectful to its community?
 
-Since neither OSS nor FOSS define how to work with a community, **(FL)OSS**
+Since neither OSS nor FOSS define how to work with a community, any **(FL)OSS**
 software can completely disregard and disrespect it. For example, if you need
 to contribute an important fix, owners of the (FL)OSS software can, but not
 limited to,
