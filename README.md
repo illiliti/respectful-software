@@ -7,13 +7,13 @@ software can completely disregard and disrespect it. For example, if you need
 to contribute an important fix, owners of the (FL)OSS software can, but not
 limited to,
 
-1) force you to give up your personal information and then sell it to the
+- force you to give up your personal information and then sell it to the
 advertisement company
 
-2) force you to sign a CLA, make software proprietary and then sell your work
+- force you to sign a CLA, make software proprietary and then sell your work
 without your permission or any kind of attribution at all
 
-3) force you to pay for an ability to contribute
+- force you to pay for an ability to contribute
 
 Obviously that this is totally unacceptable. The following rules is an attempt
 to fix this gap in the (FL)OSS definition, as well as encourage authors to make
