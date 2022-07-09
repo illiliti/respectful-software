@@ -2,10 +2,10 @@
 
 Is your software respectful to its community?
 
-Since neither OSS nor FOSS define how to work with a community, any **(FL)OSS**
-software can completely disregard and disrespect it. For example, if you need
-to contribute an important fix to said software, its owners can, but not
-limited to,
+Since neither OSS nor FOSS define how to work with a community, any
+_Free/Libre and Open Source Software_ can completely disregard and disrespect
+it. For example, if you need to contribute an important fix to said software,
+its owners can, but not limited to,
 
 - force you to give up your personal information and then sell it to the
 advertisement company
