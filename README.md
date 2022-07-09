@@ -23,7 +23,7 @@ Refer to the [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) to clarify MUST,
 SHOULD, etc keywords.
 
 1. Software MUST be (FL)OSS
-- End of story. If your software isn't (FL)OSS, it is disrespectful already.
+- If your software isn't (FL)OSS, it is more than disrespectful already.
 
 2. Software MUST be friendly to the community
 - That is, software MUST provide a way to contribute, report a bug and ask for
